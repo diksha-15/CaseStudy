@@ -1,0 +1,296 @@
+C:\Projects\Intuit Case Study\Video Streaming\bin\Video Streaming.dll.config
+C:\Projects\Intuit Case Study\Video Streaming\bin\Video Streaming.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Video Streaming.pdb
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\csc.exe
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\csc.exe.config
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\csc.rsp
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\csi.exe
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\csi.exe.config
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\csi.rsp
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.AppContext.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Console.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Net.Http.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\vbc.exe
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\vbc.exe.config
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\vbc.rsp
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Intuit Case Study\Video Streaming\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Intuit Case Study\Video Streaming\bin\Antlr3.Runtime.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\EntityFramework.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\EntityFramework.SqlServer.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Newtonsoft.Json.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Ninject.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Ninject.Web.Common.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\Ninject.Web.Common.WebHost.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Helpers.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Mvc.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Optimization.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Razor.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.WebPages.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\WebActivatorEx.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\WebGrease.dll
+C:\Projects\Intuit Case Study\Video Streaming\bin\EntityFramework.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\EntityFramework.SqlServer.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\Ninject.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\Ninject.Web.Common.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\Ninject.Web.Common.WebHost.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Helpers.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Mvc.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Optimization.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.Razor.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.WebPages.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\Newtonsoft.Json.xml
+C:\Projects\Intuit Case Study\Video Streaming\bin\Antlr3.Runtime.pdb
+C:\Projects\Intuit Case Study\Video Streaming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Intuit Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.AssemblyReference.cache
+C:\Projects\Intuit Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.CoreCompileInputs.cache
+C:\Projects\Intuit Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.CopyComplete
+C:\Projects\Intuit Case Study\Video Streaming\obj\Debug\Video Streaming.dll
+C:\Projects\Intuit Case Study\Video Streaming\obj\Debug\Video Streaming.pdb
+C:\Projects\Case Study\Video Streaming\bin\Video Streaming.dll.config
+C:\Projects\Case Study\Video Streaming\bin\Video Streaming.dll
+C:\Projects\Case Study\Video Streaming\bin\Video Streaming.pdb
+C:\Projects\Case Study\Video Streaming\bin\roslyn\csc.exe
+C:\Projects\Case Study\Video Streaming\bin\roslyn\csc.exe.config
+C:\Projects\Case Study\Video Streaming\bin\roslyn\csc.rsp
+C:\Projects\Case Study\Video Streaming\bin\roslyn\csi.exe
+C:\Projects\Case Study\Video Streaming\bin\roslyn\csi.exe.config
+C:\Projects\Case Study\Video Streaming\bin\roslyn\csi.rsp
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Case Study\Video Streaming\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.AppContext.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Console.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Net.Http.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Case Study\Video Streaming\bin\roslyn\vbc.exe
+C:\Projects\Case Study\Video Streaming\bin\roslyn\vbc.exe.config
+C:\Projects\Case Study\Video Streaming\bin\roslyn\vbc.rsp
+C:\Projects\Case Study\Video Streaming\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Case Study\Video Streaming\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Case Study\Video Streaming\bin\Antlr3.Runtime.dll
+C:\Projects\Case Study\Video Streaming\bin\Azure.Core.dll
+C:\Projects\Case Study\Video Streaming\bin\Azure.Identity.dll
+C:\Projects\Case Study\Video Streaming\bin\Castle.Core.dll
+C:\Projects\Case Study\Video Streaming\bin\EntityFramework.SqlServer.dll
+C:\Projects\Case Study\Video Streaming\bin\log4net.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Data.SqlClient.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Configuration.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Options.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Primitives.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Identity.Client.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Case Study\Video Streaming\bin\Moq.dll
+C:\Projects\Case Study\Video Streaming\bin\Newtonsoft.Json.Bson.dll
+C:\Projects\Case Study\Video Streaming\bin\Newtonsoft.Json.dll
+C:\Projects\Case Study\Video Streaming\bin\Ninject.dll
+C:\Projects\Case Study\Video Streaming\bin\Ninject.Web.Common.dll
+C:\Projects\Case Study\Video Streaming\bin\Ninject.Web.Common.WebHost.dll
+C:\Projects\Case Study\Video Streaming\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Projects\Case Study\Video Streaming\bin\Serilog.dll
+C:\Projects\Case Study\Video Streaming\bin\Serilog.Sinks.MSSqlServer.dll
+C:\Projects\Case Study\Video Streaming\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\Projects\Case Study\Video Streaming\bin\Swashbuckle.Core.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Buffers.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Configuration.ConfigurationManager.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Case Study\Video Streaming\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Case Study\Video Streaming\bin\System.IO.FileSystem.AccessControl.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Memory.Data.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Memory.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Net.Http.Extensions.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Net.Http.Formatting.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Net.Http.Primitives.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Numerics.Vectors.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Security.AccessControl.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Security.Permissions.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Security.Principal.Windows.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Text.Encodings.Web.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Text.Json.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Threading.Tasks.Extensions.dll
+C:\Projects\Case Study\Video Streaming\bin\System.ValueTuple.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Cors.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Helpers.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Http.Cors.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Http.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Http.WebHost.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Mvc.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Optimization.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Razor.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.WebPages.dll
+C:\Projects\Case Study\Video Streaming\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Case Study\Video Streaming\bin\WebActivatorEx.dll
+C:\Projects\Case Study\Video Streaming\bin\WebGrease.dll
+C:\Projects\Case Study\Video Streaming\bin\EntityFramework.dll
+C:\Projects\Case Study\Video Streaming\bin\Azure.Core.xml
+C:\Projects\Case Study\Video Streaming\bin\Azure.Identity.xml
+C:\Projects\Case Study\Video Streaming\bin\Castle.Core.xml
+C:\Projects\Case Study\Video Streaming\bin\EntityFramework.SqlServer.xml
+C:\Projects\Case Study\Video Streaming\bin\log4net.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Data.SqlClient.pdb
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Data.SqlClient.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Configuration.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Options.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Extensions.Primitives.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Identity.Client.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Logging.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\Case Study\Video Streaming\bin\Moq.xml
+C:\Projects\Case Study\Video Streaming\bin\Newtonsoft.Json.xml
+C:\Projects\Case Study\Video Streaming\bin\Newtonsoft.Json.Bson.pdb
+C:\Projects\Case Study\Video Streaming\bin\Newtonsoft.Json.Bson.xml
+C:\Projects\Case Study\Video Streaming\bin\Ninject.xml
+C:\Projects\Case Study\Video Streaming\bin\Ninject.Web.Common.xml
+C:\Projects\Case Study\Video Streaming\bin\Ninject.Web.Common.WebHost.xml
+C:\Projects\Case Study\Video Streaming\bin\Serilog.xml
+C:\Projects\Case Study\Video Streaming\bin\Serilog.Sinks.MSSqlServer.xml
+C:\Projects\Case Study\Video Streaming\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Buffers.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Configuration.ConfigurationManager.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Projects\Case Study\Video Streaming\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\Case Study\Video Streaming\bin\System.IO.FileSystem.AccessControl.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Memory.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Memory.Data.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Net.Http.Extensions.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Net.Http.Formatting.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Net.Http.Primitives.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Numerics.Vectors.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Security.AccessControl.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Security.Permissions.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Security.Principal.Windows.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Text.Encodings.Web.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Text.Json.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Threading.Tasks.Extensions.xml
+C:\Projects\Case Study\Video Streaming\bin\System.ValueTuple.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Http.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Http.Cors.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Http.WebHost.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Helpers.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Mvc.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Optimization.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.Razor.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.WebPages.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Case Study\Video Streaming\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Case Study\Video Streaming\bin\Antlr3.Runtime.pdb
+C:\Projects\Case Study\Video Streaming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Case Study\Video Streaming\bin\EntityFramework.xml
+C:\Projects\Case Study\Video Streaming\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Projects\Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.App.config
+C:\Projects\Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.AssemblyReference.cache
+C:\Projects\Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.CoreCompileInputs.cache
+C:\Projects\Case Study\Video Streaming\obj\Debug\Video Streaming.csproj.CopyComplete
+C:\Projects\Case Study\Video Streaming\obj\Debug\Video Streaming.dll
+C:\Projects\Case Study\Video Streaming\obj\Debug\Video Streaming.pdb

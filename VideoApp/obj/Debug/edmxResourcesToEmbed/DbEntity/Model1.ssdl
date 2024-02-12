@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VideoDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'VideoDB.dbo.VideoInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="VideoInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Title" />
+      <PropertyRef Name="FilePath" />
+      <PropertyRef Name="FileSize" />
+      <PropertyRef Name="Author" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="256" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="256" />
+    <Property Name="FilePath" Type="varchar" MaxLength="256" Nullable="false" />
+    <Property Name="ThumbnailUrl" Type="varchar" MaxLength="256" />
+    <Property Name="VideoUrl" Type="varchar" MaxLength="256" />
+    <Property Name="FileSize" Type="int" Nullable="false" />
+    <Property Name="Version" Type="int" />
+    <Property Name="IsDeleted" Type="bit" />
+    <Property Name="Author" Type="nvarchar" MaxLength="1" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="256" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="VideoDBModelStoreContainer">
+    <EntitySet Name="VideoInfo" EntityType="Self.VideoInfo" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [VideoInfo].[Id] AS [Id], 
+    [VideoInfo].[Title] AS [Title], 
+    [VideoInfo].[Description] AS [Description], 
+    [VideoInfo].[FilePath] AS [FilePath], 
+    [VideoInfo].[ThumbnailUrl] AS [ThumbnailUrl], 
+    [VideoInfo].[VideoUrl] AS [VideoUrl], 
+    [VideoInfo].[FileSize] AS [FileSize], 
+    [VideoInfo].[Version] AS [Version], 
+    [VideoInfo].[IsDeleted] AS [IsDeleted], 
+    [VideoInfo].[Author] AS [Author], 
+    [VideoInfo].[CreatedDate] AS [CreatedDate], 
+    [VideoInfo].[ModifiedBy] AS [ModifiedBy], 
+    [VideoInfo].[ModifiedDate] AS [ModifiedDate]
+    FROM [dbo].[VideoInfo] AS [VideoInfo]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
